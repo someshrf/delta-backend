@@ -1,0 +1,221 @@
+*
+{
+ margin: 0px;
+ padding: 0px;
+}
+
+ body
+{
+ font-size: 120%;
+ background: #F8F8FF;
+}
+
+.reads{
+	position:absolute;
+	margin-left:300px;
+	margin-top:8px;
+
+}
+
+.header
+{
+ width: 90%;
+ height: 30%
+ margin: 50px auto 0px;
+ color:white;
+ background: #5F9EA0;
+ text-align:center;
+ border: 1px solid #B0C4DE;
+ border-bottom:none;
+ margin-left: 3.4%;
+ border-radius: 10px 10px 0px 0px;
+ padding: 20px;
+}
+
+.header1
+{
+ width: 30%;
+ height: 30%
+ margin: 50px auto 0px;
+ color:white;
+ background: #5F9EA0;
+ text-align:center;
+ border: 1px solid #B0C4DE;
+ border-bottom:none;
+ margin-left: 30%;
+ border-radius: 10px 10px 0px 0px;
+ padding: 20px;
+}
+
+/*
+.foorm
+{
+ width: 30%;
+ height: 20%;
+ margin: 10px 0px 0px 410px ;
+ padding: 20px;
+ border: 1px solid #B0C4DE;
+ background: white;
+ border-radius: 0px 0px 10px 10px;
+}
+*/
+.formm
+{
+ width: 30%;
+ height: 5%;
+ margin: 10px 0px 0px 410px ;
+ padding: 20px;
+ border: 1px solid #B0C4DE;
+ background: white;
+ border-radius: 0px 0px 10px 10px;
+}
+
+ .content
+{display: inline;
+ position:absolute;
+ width: 92%;
+ height: 65%;
+ margin: 0px 0px 0px 35px ;
+ padding: 20px;
+ border: 1px solid #B0C4DE;
+ background: white;
+ border-radius: 0px 0px 10px 10px;
+ overflow-y: scroll;
+
+}
+
+/* for login and register*/
+ .input-group3
+{
+ margin: 10px 0px 10px 0px;
+}
+
+.input-group3 label
+{
+ display: block;
+ text-align: left;
+ margin: 3px;
+}
+
+.input-group3 input
+{
+ height: 30px;
+ width: 93%;
+ padding: 5px 10px;
+ font-size: 16px;
+ border-radius: 5px;
+ border: 1px solid gray;
+}
+
+/*for others*/
+.input-group
+{display:flex;
+ margin: 10px 0px 10px 10px;
+ padding: 5px 10px;
+ }
+
+.input-group label
+{display:block;
+ text-align: left;
+ margin: 3px;
+ }
+
+.input-group input
+{height: 250px;
+ width: 75%;
+ padding: 5px 10px;
+ font-size: 16px;
+ border-radius: 5px;
+ border: 1px solid gray;
+ }
+
+.input-group1 input
+{height: 30px;
+ width: 22%;
+ padding: 5px 10px;
+ font-size: 16px;
+ border-radius: 5px;
+ margin-left: 15px;
+ border: 1px solid gray;
+ }
+
+.input-group2 input
+{height: 400px;
+ width: 75%;
+ padding: 5px 10px;
+ font-size: 16px;
+ border-radius: 5px;
+ margin-left: 15px;
+ border: 1px solid gray;
+ }
+
+.btn
+{
+ padding: 10px;
+ font-size: 15px;
+ color: white;
+ background: #5F9EA0;
+ border: none;
+ border-radius: 5px;
+ }
+
+.first{
+	width: 45%;
+	float: left;
+	}
+
+
+.error
+{
+ width: 92%;
+ margin: 0px auto;
+ padding: 10px;
+ border: 1px solid #a94442;
+ color: #a94442;
+ background: #f2dede;
+ border-radius: 5px;
+ text-align: left;	
+}
+
+.success{
+	/*position: absolute;
+	*/
+	color:#3c763d;
+	background: #dff0d8;
+    border: 1px solid #3c763d;
+    margin-top: 5px;
+}
+
+
+.body{
+	display:block;
+	position:absolute;
+	margin-top:490px;
+	margin-left:40px;
+}
+
+.prof{
+ display:inline-block;
+ background: #dff0d8;
+ margin-top:180px;
+ margin-left: 30px;
+ width:50%;
+ height:90%;
+ overflow-y: scroll;
+ float:right;
+
+}
+
+
+.delete{
+  margin-left: 20px;
+
+}
+
+.refer{
+	background-color: #78C2B0;
+	width:93.1%;
+	height:60px;
+	margin-left: 3.4%;
+}
+
